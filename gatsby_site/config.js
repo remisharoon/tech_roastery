@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://remis-haroon.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blogs by Remis Haroon',
+  subtitle: 'A Techno Roastery',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-7337-X-9983-2',
   useKatex: false,
   menu: [
     {
@@ -25,9 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Remis Haoon',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: "Experienced Big Data Engineer with exposure to \
+          design and architecture of data pipelines and \
+          integration with legacy systems.  \
+          Has several years of experience in working on highly  \
+          scalable systems using technology stack such as \
+          Apache Spark, Kafka, SQL and NoSQL databases  \
+          such as Cassandra.",
     contacts: {
       email: '',
       facebook: '#',
